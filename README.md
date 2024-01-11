@@ -29,3 +29,5 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianang&layout=donut)](https://github.com/julianang/github-readme-stats)
+<br/>
+![](https://komarev.com/ghpvc/?username=your-github-julianang)
