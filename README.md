@@ -1,10 +1,10 @@
 ### Hi there :globe_with_meridians:
 
- I’m Juliana passionate about technology, currently learning Web Development.
+ I’m Juliana passionate about technology, currently studying Web Development.
  <br/> 
  <br/>
 
- Language and Tolls: 
+ Learning following Language and Tolls: 
  <br/>
  <br/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" href="javascript-logo"/>
