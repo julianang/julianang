@@ -1,6 +1,7 @@
 ### Hi there :globe_with_meridians:
 
- I’m Juliana passionate about technology, currently studying Web Development.
+ My name is Juliana, I am a dedicated web development student with a passion for creating engaging and user-friendly digital experiences. 
+ I am on a journey to master the art of front-end and back-end development. Eager to contribute my skills and learn from real-world projects in the ever-evolving world of web development.
  <br/> 
  <br/>
 
