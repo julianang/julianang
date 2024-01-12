@@ -1,6 +1,6 @@
 ### Hi there :globe_with_meridians:
 
- I’m Juliana passionate about technology, currently learning Web Development and working on my skills.
+ I’m Juliana passionate about technology, currently learning Web Development.
  <br/> 
  <br/>
 
